@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888960287528",
+    "project_id": "bloodrecall-web",
+    "storage_bucket": "bloodrecall-web.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888960287528:android:fce8f14841972584f3461d",
+        "android_client_info": {
+          "package_name": "brood.recall.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMsExsOm4vVa7PQPxvddF3Uw2YPiLh4xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
